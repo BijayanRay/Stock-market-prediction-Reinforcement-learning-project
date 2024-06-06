@@ -13,7 +13,7 @@
 
 # Contribute
 
-Contributions are always welcome! Please create a PR to add Github Profile.
+Contributions are always welcome!
 
 ## :pencil: License
 
