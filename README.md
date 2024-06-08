@@ -1,5 +1,5 @@
 <h1 align="center"><u>About this Project</u></h1>
-<p align="center"><i>A python implementation of a stock market prediction tool based of Deep Q-learning algorithm. It is done for group project for Reinforcement learning course at CMI. Our group comprised of Ankan Kar, Bijayan Ray, Ishan Banerjee, Praveen Kumar, Shreyam Banerjee.</i></p>
+<p align="center"><i>A python implementation of a stock market prediction tool based of Deep Q-learning algorithm. It is done for group project for Reinforcement learning course at CMI. Our group comprised of <a href="https://github.com/AnkanKar-Zargon">Ankan Kar</a>, <a href="https://github.com/BijayanRay">Bijayan Ray</a>, <a href="https://github.com/ishanbaner">Ishan Banerjee</a>, <a href="theliterunner">Praveen Kumar</a>, Shreyam Banerjee.</i></p>
 <p align="center"><i>Right now it contains the results that have been achieved. The source code is presently closed. </i></p>
 <div align="center">
   <a href="https://github.com/BijayanRay/Stock-market-prediction-Reinforcement-learning-project/stargazers"><img src="https://img.shields.io/github/stars/BijayanRay/Stock-market-prediction-Reinforcement-learning-project" alt="Stars Badge"/></a>
